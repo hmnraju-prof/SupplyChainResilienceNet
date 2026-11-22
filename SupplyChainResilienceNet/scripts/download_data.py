@@ -1,7 +1,4 @@
-"""Optional downloader. Dataset licences/access controls are respected; no data bundled.
 
-SupplyGraph is cloned via Git. Kaggle datasets use the user's own Kaggle API token.
-"""
 import argparse,subprocess,sys
 from pathlib import Path
 
