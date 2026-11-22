@@ -1,4 +1,4 @@
-"""Explicit hypothetical graph-state update from predicted recovery actions."""
+
 import copy
 import numpy as np
 import pandas as pd
