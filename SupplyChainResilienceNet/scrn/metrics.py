@@ -1,4 +1,4 @@
-"""Classification, regression and recovery metrics without data fabrication."""
+
 import numpy as np
 from sklearn.metrics import (accuracy_score,precision_recall_fscore_support,roc_auc_score,
                              average_precision_score,mean_absolute_error,mean_squared_error,r2_score,confusion_matrix)
