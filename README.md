@@ -568,13 +568,7 @@ SupplyChainResilienceNet/
 │   └── test_training.py
 │
 ├── run_all.py
-├── requirements.txt
-├── pyproject.toml
-├── README.md
-├── IMPLEMENTATION_NOTES.md
-├── VALIDATION_REPORT.md
-├── LICENSE
-└── .gitignore
+└── requirements.txt
 ```
 
 ---
