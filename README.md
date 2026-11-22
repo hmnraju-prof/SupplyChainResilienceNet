@@ -574,32 +574,8 @@ SupplyChainResilienceNet/
 
 ---
 
-# 15. Google Colab Support
 
-The project includes a Google Colab starter notebook.
-
-```text
-notebooks/Colab_Quick_Start.ipynb
-```
-
-To execute the framework in Google Colab:
-
-1. Open the starter notebook.
-2. Upload the project ZIP.
-3. Extract the repository.
-4. Install the required dependencies.
-5. Execute the demonstration pipeline.
-6. Review the generated evaluation outputs.
-
-For GPU execution, install the appropriate PyTorch version for the available CUDA environment.
-
-PyTorch installation instructions:
-
-https://pytorch.org/get-started/locally/
-
----
-
-# 16. Technologies and Libraries
+# 15. Technologies and Libraries
 
 The implementation uses the following technologies:
 
@@ -622,7 +598,7 @@ The implementation uses the following technologies:
 ---
 
 
-# 18. Acknowledgements
+# 16. Acknowledgements
 
 The framework builds upon established concepts in:
 
