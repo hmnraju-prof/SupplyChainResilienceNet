@@ -1,4 +1,3 @@
-"""Ablation and sensitivity experiments for manuscript Section 5."""
 from dataclasses import replace
 from pathlib import Path
 import numpy as np
