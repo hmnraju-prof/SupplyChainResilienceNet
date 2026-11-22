@@ -1,4 +1,4 @@
-"""Publication-ready analytical figures. Every axis has a label, no figure-internal title."""
+
 from pathlib import Path
 import numpy as np
 import matplotlib
