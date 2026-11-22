@@ -1,4 +1,4 @@
-"""One-command demo / preparation / real-data research workflow."""
+
 from __future__ import annotations
 import argparse,json,time
 from pathlib import Path
