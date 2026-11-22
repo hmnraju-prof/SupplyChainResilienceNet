@@ -427,7 +427,7 @@ Seven architectural and feature ablations are implemented:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SupplyChainResilienceNet.git
+git clone https://github.com/hmnraju-prof/SupplyChainResilienceNet
 ```
 
 Navigate to the project directory:
