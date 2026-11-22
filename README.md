@@ -92,7 +92,6 @@ Six logical relationship types represent interactions between supply chain entit
 | Recovery | Recovery-related relationships |
 | Propagation | Disruption propagation relationships |
 
-Each relationship can incorporate time-varying attributes such as dependency strength, transportation delay, historical disruption information, and operational capacity.
 
 ## 3.2 Relation-Specific Graph Attention Network
 
@@ -111,8 +110,6 @@ The architecture consists of:
 The graph attention component learns spatial and relational dependencies within the supply chain network.
 
 ## 3.3 Temporal Transformer
-
-The temporal Transformer captures historical operational dependencies and changes in supply chain behaviour.
 
 It processes historical graph representations to identify temporal patterns associated with disruption risks.
 
@@ -138,7 +135,6 @@ The framework uses multiple prediction heads to perform five related tasks.
 | Task 4 | Operational delay prediction |
 | Task 5 | Financial loss prediction |
 
-The shared graph-temporal representation supports multiple prediction objectives within a unified learning framework.
 
 ---
 
