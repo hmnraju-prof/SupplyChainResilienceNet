@@ -1,14 +1,3 @@
-"""Five-table canonical loader and openly labelled semi-synthetic public-source adapter.
-
-Required canonical CSVs:
- entities.csv: entity_id,entity_type [,region,capacity,lead_time,tier,industry]
- relations.csv: source_id,target_id,relation_type [,dependency_strength,lead_time,capacity]
- operations.csv: day,entity_id [,demand,production,inventory,delivery,lead_time,capacity]
- events.csv: entity_id,start_date [,end_date,disruption_type,severity,delay_days,loss_kusd]
- ports.csv: may contain day/period,entity_id/port_id,turnaround_days,vessel_calls,
-            cargo_capacity,efficiency. Non-daily series are joined strictly as-of, never
-            presented as daily *measured* values. All preprocessing parameters fit train-only.
-"""
 from pathlib import Path
 import json,re,warnings
 import numpy as np
