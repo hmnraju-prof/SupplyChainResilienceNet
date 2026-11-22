@@ -1,4 +1,4 @@
-"""Paired statistical analysis; report dependent folds transparently."""
+
 import numpy as np
 from scipy.stats import wilcoxon
 
