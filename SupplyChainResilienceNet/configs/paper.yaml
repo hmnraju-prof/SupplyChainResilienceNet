@@ -1,0 +1,17 @@
+config:
+  seed: 11
+  hidden: 128
+  graph_layers: 3
+  graph_heads: 4
+  temporal_layers: 2
+  temporal_heads: 4
+  feed_forward: 256
+  dropout: 0.2
+  window: 7
+  lr: 0.001
+  weight_decay: 0.0001
+  epochs: 200
+  patience: 20
+  batch_size: 8
+  risk_threshold: 0.50
+  resilience_threshold: 0.45
