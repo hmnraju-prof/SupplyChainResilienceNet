@@ -623,7 +623,6 @@ The implementation uses the following technologies:
 | Google Colab | Cloud-based execution |
 | PyTorch Geometric | Optional heterogeneous graph export |
 
-The main graph attention implementation uses standard PyTorch operations, including `scatter_reduce` and `index_add`, without requiring architecture-specific PyTorch Geometric operators.
 
 ---
 
@@ -640,10 +639,5 @@ The framework builds upon established concepts in:
 - Mixed-Integer Linear Programming.
 - Supply Chain Risk and Resilience Modelling.
 
-The public datasets are credited to their respective creators and repositories.
-
 ---
 
-**SupplyChainResilienceNet**
-
-*Intelligent Supply Chain Disruption Prediction, Resilience Assessment, and Adaptive Recovery Optimisation.*
