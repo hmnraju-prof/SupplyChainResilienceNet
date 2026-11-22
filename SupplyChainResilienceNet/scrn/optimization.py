@@ -1,8 +1,4 @@
-"""Operationally constrained recovery actions using SciPy HiGHS MILP.
 
-All action effectiveness and capacities are CONFIGURABLE SIMULATOR ASSUMPTIONS,
-not observed counterfactuals from the Kaggle disruption dataset.
-"""
 from __future__ import annotations
 from dataclasses import dataclass,asdict
 from typing import Sequence
