@@ -1,4 +1,4 @@
-"""Controlled illustrative data generator; NEVER represent its metrics as real-data evidence."""
+
 from datetime import date,timedelta
 import numpy as np
 from .config import NODE_TYPES, EDGE_TYPES
