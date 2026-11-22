@@ -1,4 +1,4 @@
-"""Action-independent resilience-score formulation (revised manuscript Eq. 37-38)."""
+
 from dataclasses import dataclass
 import numpy as np
 
