@@ -1,5 +1,7 @@
 [![DOI](https://zenodo.org/badge/1467352771.svg)](https://doi.org/10.5281/zenodo.24437262)
 
+[![GitHub](https://img.shields.io/badge/GitHub-SupplyChainResilienceNet-blue?logo=github)](https://github.com/hmnraju-prof/SupplyChainResilienceNet)
+
 # SupplyChainResilienceNet
 
 ### A Graph-Based Framework for Supply Chain Disruption Prediction and Adaptive Recovery Optimisation
