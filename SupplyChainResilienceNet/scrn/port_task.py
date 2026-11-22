@@ -1,8 +1,4 @@
-"""Genuine observation-derived port turnaround early-warning experiment.
 
-Requires timestamped DAILY per-PORT observations, which must NOT be confused with
-UNCTAD country-by-semester aggregates. No financial-loss or disruption-type claims.
-"""
 from pathlib import Path
 import json,copy
 import numpy as np
