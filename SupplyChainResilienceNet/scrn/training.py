@@ -1,4 +1,4 @@
-"""Chronological evaluation and model training; no test-set tuning."""
+
 from __future__ import annotations
 import copy,random,time
 from dataclasses import dataclass
