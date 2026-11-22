@@ -1,4 +1,3 @@
-"""Validated settings for SupplyChainResilienceNet."""
 from dataclasses import asdict, dataclass, field
 from pathlib import Path
 import json
