@@ -627,15 +627,6 @@ The main graph attention implementation uses standard PyTorch operations, includ
 
 ---
 
-# 17. License
-
-This project is distributed under the MIT License.
-
-See the [LICENSE](LICENSE) file for details.
-
-External datasets remain subject to their respective licenses and terms of use.
-
----
 
 # 18. Acknowledgements
 
