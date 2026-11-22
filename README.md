@@ -533,9 +533,6 @@ SupplyChainResilienceNet/
 │
 ├── outputs/
 │
-├── notebooks/
-│   └── Colab_Quick_Start.ipynb
-│
 ├── scripts/
 │   └── download_data.py
 │
