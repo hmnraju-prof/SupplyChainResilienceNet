@@ -1,9 +1,4 @@
-"""Edge-aware relation-specific GAT + temporal Transformer, implemented in standard PyTorch.
 
-The implementation operates on a canonical typed-graph tensor; `GraphSequence.to_pyg()`
-provides an optional PyG HeteroData interoperability layer. We avoid pyg_lib/scatter
-binary dependencies and instead use torch's differentiable native scatter operations.
-"""
 import math
 import torch
 from torch import nn
